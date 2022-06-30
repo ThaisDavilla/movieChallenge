@@ -6,7 +6,7 @@ let comedy = [{
   Director: 'Jeff Tomsic',
   Year: 2018,
 },{
-  Title:'Grouwn Ups',
+  Title:'Grown Ups',
   Director:'Dennis Dugan',
   Year: 2010 ,
 },{ 
@@ -47,9 +47,6 @@ let fantasy = [{
 //IF: "MY FAVORIT MOVIE IS..."
 //ELSE: "NOT EVEN 5 STARS..." 
 
-if(comedy[0] === comedy[0]){
-  console.log('My favorit movie is "TAG"')
-}else{
-  console.log('Not even 5 stars')
-}
-console.log(comedy[0])
+//Vou fazer!!!
+
+
