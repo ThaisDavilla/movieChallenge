@@ -63,7 +63,7 @@ if(fantasy = 'Harry Potter and the Order of the Phoenix.'){
 }else{
   console.log("NOT EVEN 5 STARS!")
 }
-//dESAFIO EXTRA:
+//Desafio extra:
 //Escolha uma variável e insira uma condição para ela, (condição de sua escolha), com a seguinte mensagem ao console: 
 //IF: "MY FAVORIT MOVIE IS..."
 //ELSE: "NOT EVEN 5 STARS..." 
